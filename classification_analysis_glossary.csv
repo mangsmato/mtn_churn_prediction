@@ -1,0 +1,19 @@
+account_length - Age of account in months.
+customer_id - Enterprise ID of the customer.
+area_code - Area code.
+international_plan - Rather or not the customer has an international calling plan.
+voice_mail_plan - Rather or not the customer has a voice mail plan.
+number_vmail_messages - Number of VM messages customer currently has on the server.
+total_day_minutes - Customers total usage of day minutes in plan.
+total_day_calls - Total number of calls customer has made during the day.
+total_day_charge - How much the customer has been charged for day minutes.
+total_eve_minutes - Total number of calls customer has made during the evening.
+total_eve_charge - How much the customer has been charged for evening minutes.
+total_night_minutes - Customers total usage of night minutes in plan.
+total_night_calls - Total number of calls customer has made during the night.
+total_night_charge - How much the customer has been charged for night minutes.
+total_intl_minutes - Total international minutes.
+total_intl_calls - Total international calls.
+total_intl_charge - Total international charges.
+number_customer_service_calls - How many times the customer has called the IVR system.
+churn - Customer has churned.
